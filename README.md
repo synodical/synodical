@@ -1,7 +1,7 @@
 ## About Synodic
 
 - 👋 Hi, I’m Yeeun Lee.  
-- 🎓 I'm a student studying CS at Hongik University.   
+- 🎓 I'm a student studying Computer Science at Hongik University.   
 - 🌱 I’m currently learning Node.js and React.  
 - 💪 I can use C++, C and Python.
 - 🏠 https://synodic.tistory.com/
