@@ -5,6 +5,7 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/BlockChain-121D33?style=for-the-badge&logo=BlockChain.com&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/Ravelry-EE6E62?style=for-the-badge&logo=Ravelry&logoColor=white"/></a>
 
 - 👋 Hi, I’m Yeeun Lee.  
 - 🎓 I studied Computer Science at Hongik University.   
