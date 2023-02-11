@@ -7,5 +7,6 @@
 - 💪 I can use C++, C, JavaScript, Python and Mysql.
 - 🏠 https://synodic.tistory.com/
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synodical&show_icons=true&theme=radical)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akinakamori)](https://solved.ac/akinakamori)
