@@ -1,5 +1,11 @@
 ## About Synodic
 
+
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/></a>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/BlockChain-121D33?style=for-the-badge&logo=BlockChain.com&logoColor=white"/></a>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
+
 - 👋 Hi, I’m Yeeun Lee.  
 - 🎓 I studied Computer Science at Hongik University.   
 - ✏️ I'm currently learning Java and Spring at SSAFY. (2023/01~)
@@ -10,3 +16,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synodical&show_icons=true&theme=great-gatsby)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akinakamori)](https://solved.ac/akinakamori)
+
+<a href="https://synodic.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-5890FF?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
