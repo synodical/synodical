@@ -18,4 +18,3 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akinakamori)](https://solved.ac/akinakamori)
 
-<a href="https://synodic.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-5890FF?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
