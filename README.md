@@ -8,10 +8,10 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Ravelry-EE6E62?style=for-the-badge&logo=Ravelry&logoColor=white"/></a>
 
 - 👋 Hi, I’m Yeeun Lee.  
-- 🎓 I studied Computer Science at Hongik University.   
-- ✏️ I'm currently learning Java and Spring at SSAFY. (2023/01~)
+- 🎓 I studied Computer Science at Hongik University and SSAFY.   
+- ✏️ I'm currently working as a back-end developer at TmaxCommerce.
 - 🌱 I'm interested in Japanese, Node.js and NestJS.  
-- 💪 I can use C++, C, JavaScript, Python and Mysql.
+- 💪 I can use Java, C++, TypeScript, Python and Mysql.
 - 🏠 https://synodic.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synodical&show_icons=true&theme=great-gatsby)
