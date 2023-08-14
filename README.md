@@ -7,11 +7,12 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Ravelry-EE6E62?style=for-the-badge&logo=Ravelry&logoColor=white"/></a>
 
-- 👋 Hi, I’m Yeeun Lee.  
-- 🎓 I studied Computer Science at Hongik University and SSAFY.   
+- 👋 Hi, I’m Yeeun Lee.
 - ✏️ I'm currently working as a back-end developer at TmaxCommerce.
+- 🎓 I studied Computer Science at Hongik University and SSAFY.   
 - 🌱 I'm interested in Japanese, Node.js and NestJS.  
 - 💪 I can use Java, C++, TypeScript, Python and Mysql.
+- 🤍 Here's my resume: https://available-carol-098.notion.site/Yeeun-Lee-305fcf3916c848ac81af4afabde7ccbe?pvs=4
 - 🏠 https://synodic.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synodical&show_icons=true&theme=great-gatsby)
