@@ -8,7 +8,7 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Ravelry-EE6E62?style=for-the-badge&logo=Ravelry&logoColor=white"/></a>
 
 - 👋 Hi, I’m Yeeun Lee.
-- ✏️ I'm currently working as a back-end developer at TmaxCommerce.
+- ✏️ I'm currently working as a back-end developer.
 - 🎓 I studied Computer Science at Hongik University and SSAFY.   
 - 🌱 I'm interested in Japanese, Node.js and NestJS.  
 - 💪 I can use Java, C++, TypeScript, Python and Mysql.
