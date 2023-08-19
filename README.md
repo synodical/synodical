@@ -11,8 +11,7 @@
 - ✏️ I'm currently working as a back-end developer.
 - 🎓 I studied Computer Science at Hongik University and SSAFY.   
 - 🌱 I'm interested in Japanese, Node.js and NestJS.  
-- 💪 I can use Java, C++, TypeScript, Python and Mysql.
-- 🤍 Here's my <a href="https://available-carol-098.notion.site/Yeeun-Lee-305fcf3916c848ac81af4afabde7ccbe?pvs=4" target="_blank">resume</a>
+- 💪 I can use NestJS, Spring.
 - 🏠 https://synodic.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synodical&show_icons=true&theme=great-gatsby)
