@@ -11,7 +11,6 @@
 - ✏️ I'm currently working as a back-end developer.
 - 🎓 I studied Computer Science at Hongik University and SSAFY.   
 - 🌱 I'm interested in Japanese, Node.js and NestJS.  
-- 💪 I can use NestJS, Spring.
 - 🏠 https://synodic.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synodical&show_icons=true&theme=great-gatsby)
